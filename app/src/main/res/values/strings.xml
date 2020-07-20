@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Phone Book</string>
+    <string name="name">Name</string>
+    <string name="number">0812312312</string>
+</resources>
